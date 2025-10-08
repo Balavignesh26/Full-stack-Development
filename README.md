@@ -57,29 +57,5 @@ Design
 - Gradient Backgrounds --> Eye-catching color schemes
 - Custom Animations --> Smooth transitions and effects
 
-Project Structure
-portfolio-website/
-│
-├── app.py                      # Flask application entry point
-├── data.db                     # SQLite database
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-│
-├── templates/                  # HTML templates
-│   ├── base.html              # Base template with common elements
-│   ├── index.html             # Main portfolio page
-│   └── success.html           # Form submission success page
-│
-└── static/                     # Static assets
-    ├── css/
-    │   └── style.css          # Custom styles and animations
-    ├── js/
-    │   └── script.js          # Interactive features
-    └── images/
-        ├── pfp.jpg            # Profile picture
-        ├── CVE.webp           # Project thumbnail
-        ├── Crypt.png          # Project thumbnail
-        └── Qubit.png          # Project thumbnail
-
 
 
