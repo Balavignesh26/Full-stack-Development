@@ -12,10 +12,12 @@ Home Section
 
 
 Portfolio Section
-![Portfolio Section](static/images/screenshots/portfolio.png)
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/5e5baf74-a4a7-46e2-8f5d-dd686e58ee74" />
+
 
 Contact Section
-![Contact Section](static/images/screenshots/contact.png)
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/19d99a0e-0ea1-451b-8bae-d2b8919dd9d7" />
+
 
 Features
 
