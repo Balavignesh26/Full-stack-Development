@@ -8,7 +8,8 @@ A modern, responsive portfolio website built with Flask, featuring interactive U
 Screenshots
 
 Home Section
-![Home Section](static/images/screenshots/home.png)
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/64c543f3-c000-4ad7-ba82-4b19e6b7c9d9" />
+
 
 Portfolio Section
 ![Portfolio Section](static/images/screenshots/portfolio.png)
